@@ -110,3 +110,8 @@ void Presentarse(){
   delay(700);
   Parar();
 }
+
+void Automatico (){
+Primeratraccion(1908,180);
+Primeratraccion(954,180);
+}
